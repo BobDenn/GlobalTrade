@@ -206,4 +206,4 @@ farm flotation tyres
 ---
 
 **License:** MIT  
-**Repository:** `github.com/BobTire/Alibaba-CTR-Optimized-Listing-Template`
+**Repository:** `https://github.com/BobDenn/GlobalTrade.git`
